@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Github JavaPop</string>
+    <string name="txt_repositoryName">Nome Repositório</string>
+    <string name="txt_description">Descrição do repositório Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="txt_username">username</string>
+    <string name="txt_fullName">Nome Sobrenome</string>
+    <string name="txt_branch">640</string>
+    <string name="txt_stars">98</string>
+    <string name="txt_titleApp">Github JavaPop</string>
+    <string name="hint_search">buscar</string>
+    <string name="api_error">erro inesperado, verifique sua conexão de rede</string>
+    <string name="api_error2">erro inesperado2, verifique sua conexão de rede2</string>
+
+</resources>
